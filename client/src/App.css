@@ -1,0 +1,9 @@
+.container {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 6rem;
+  width: 60%;
+  min-height: 35vh;
+}
